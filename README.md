@@ -1,0 +1,2 @@
+# Perturb-Observe-for-MPPT-in-Simulink-MATLAB
+This repository contains a Simulink model that implements the Perturb &amp; Observe (P&amp;O) algorithm for MPPT in PV systems. The P&amp;O algorithm optimizes PV array power output by continuously adjusting the operating point to maximize efficiency. This project includes the design, simulation, and analysis of the P&amp;O MPPT algorithm in a PV system.
